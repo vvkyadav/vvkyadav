@@ -1,7 +1,7 @@
 <!-- <img align="right" alt="Coding" width="550" height="350" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif"/> -->
 
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">Mech-Coder</h3>
+<!-- <h3 align="center">Mech-Coder</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvkyadav&label=Profile%20views&color=0e75b6&style=flat" alt="vvkyadav" /> </p>
 
